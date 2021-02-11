@@ -1,6 +1,6 @@
 - path: articles-df
   name: articles-df
-  rows: 57
-  cols: 5
-  description: Data dump for scraping El Vocero
+  rows: 0
+  cols: 2
+  description: 2021-02-11_19:41:07
   type: table

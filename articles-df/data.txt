@@ -1,15 +1,12 @@
 path:
 - data.csv
 - data.rds
-rows: 57
-cols: 5
+rows: 0
+cols: 2
 columns:
-  date: character
-  author: character
-  body: character
   titles: character
   urls: character
-description: Data dump for scraping El Vocero
+description: 2021-02-11_19:41:07
 type: table
 filenames:
   data.csv: data.csv
