@@ -1,6 +1,6 @@
 - path: articles-df
   name: articles-df
-  rows: 0
-  cols: 2
-  description: 2021-02-11_19:41:07
+  rows: 1
+  cols: 5
+  description: 2021-02-11_19:44:47
   type: table
