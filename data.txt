@@ -1,0 +1,6 @@
+- path: articles-df
+  name: articles-df
+  rows: 57
+  cols: 5
+  description: Data dump for scraping El Vocero
+  type: table
