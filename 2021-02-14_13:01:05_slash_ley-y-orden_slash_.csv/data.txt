@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 60
+cols: 5
+columns:
+  date: character
+  author: character
+  body: character
+  titles: character
+  urls: character
+description: 2021-02-14_13:01:05
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
